@@ -1,1 +1,2 @@
-我是一个测试文件
+Git is a distributed version control system.
+Git is free software.
